@@ -8,13 +8,14 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyBRRJf5mcKVSJGVSFrT_hOpC5cWtGiP0qg",
+   apiKey: "AIzaSyBRRJf5mcKVSJGVSFrT_hOpC5cWtGiP0qg",
     authDomain: "chataxel42.firebaseapp.com",
     projectId: "chataxel42",
     storageBucket: "chataxel42.appspot.com",
     messagingSenderId: "617747680039",
-    appId: "1:617747680039:web:4d86b27d352d5664f77702",
-    measurementId: "G-P0W8K43QMV"
+    appId: "1:617747680039:web:38a425212f58b6eef77702",
+    measurementId: "G-2MRNEZDYM2"
+
 
 
 });
